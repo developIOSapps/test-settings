@@ -38,7 +38,7 @@
 			<key>Key</key>
 			<string>teacher</string>
 			<key>DefaultValue</key>
-			<string>2</string>
+			<integer>18</integer>
 			<key>Titles</key>
 			<array>
 				<string>first</string>
@@ -47,9 +47,9 @@
 			</array>
 			<key>Values</key>
 			<array>
-				<integer>1</integer>
-				<integer>2</integer>
-				<integer>3</integer>
+				<integer>18</integer>
+				<integer>19</integer>
+				<integer>20</integer>
 			</array>
 		</dict>
 	</array>
